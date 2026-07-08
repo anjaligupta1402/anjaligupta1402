@@ -1,4 +1,4 @@
-# Hi, I'm Anjali Gupta 👋
+<h1 align="center">Hi, I'm Anjali Gupta 👋</h1>
 
 ## About Me
 - 🎓 MCA Final Year Student
