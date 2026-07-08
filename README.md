@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Anjali Gupta 👋
 
-<!--
-**anjaligupta1402/anjaligupta1402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 MCA Final Year Student
+- 💻 Skilled in Python, C++
+- 💼 1 year experience in Customer Support & Client Advisory roles
+- 🤖 Interested in AI/ML, Automation & Predictive Systems
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- **AI Career Counselor** - AI-based career guidance system using Machine Learning
+- **Railway Booking System** - Railway ticket booking website using Flask & SQLite
+- **Machine Fault Detector** - AI-based machine fault detection using sound analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+Python | C++ | Machine Learning | Data Structures | Git & GitHub
+
+## 📫 Contact
+- Email: anjaligupta1402003@gmail.com
+- linkedin : https://www.linkedin.com/in/anjali-gupta-1a1186340?utm_source=share_via&utm_content=profile&utm_medium=member_android👋
+
