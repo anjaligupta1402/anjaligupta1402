@@ -1,20 +1,44 @@
-<h1 align="center">Hi, I'm Anjali Gupta 👋</h1>
+<h1 align="center">Hi there, I'm Anjali Gupta 👋</h1>
 
-## About Me
-- 🎓 MCA Final Year Student
-- 💻 Skilled in Python, C++
-- 💼 1 year experience in Customer Support & Client Advisory roles
-- 🤖 Interested in AI/ML, Automation & Predictive Systems
+<h3 align="center">MCA Graduate | Python | Flask | Machine Learning | Web Development</h3>
 
-## 🚀 Projects
-- **AI Career Counselor** - AI-based career guidance system using Machine Learning
-- **Railway Booking System** - Railway ticket booking website using Flask & SQLite
-- **Machine Fault Detector** - AI-based machine fault detection using sound analysis
+---
 
-## 🛠️ Skills
-Python | C++ | Machine Learning | Data Structures | Git & GitHub
+### 🚀 About Me
 
-## 📫 Contact
-- Email: anjaligupta1402003@gmail.com
-- linkedin : https://www.linkedin.com/in/anjali-gupta-1a1186340?utm_source=share_via&utm_content=profile&utm_medium=member_android👋
+- 🎓 MCA Graduate from Jabalpur
+- 💻 Hands-on experience in **Python**, **Flask**, **SQLite**, and **Machine Learning**
+- 🌱 Passionate about building real-world, practical applications
+- 📍 Based in Jamshedpur, Jharkhand
 
+---
+
+### 🛠️ Projects
+
+#### 🚆 Rail Booking System
+A web-based railway ticket booking system built using **Flask** and **SQLite**, with user authentication, seat booking, and booking history.
+**Tech:** Python, Flask, SQLite, HTML, CSS
+
+#### ⚙️ Machine Fault Detector
+A machine learning model that detects machine faults using sound-based analysis, helping in predictive maintenance.
+**Tech:** Python, Machine Learning, Signal Processing
+
+#### 🤖 AI Career Counselor
+An AI-based tool that helps users get personalized career guidance.
+**Tech:** Python, AI/ML
+
+---
+
+### 🧰 Tech Stack
+
+Python | Flask | SQLite | HTML | CSS | Git | GitHub
+
+---
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=anjaligupta1402&show_icons=true&theme=default" alt="GitHub Stats" />
+
+---
+
+💡 "Passionate about building real-world applications."
